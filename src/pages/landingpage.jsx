@@ -1,5 +1,4 @@
 import React from "react";
-import logo from "../assets/logo.svg";
 import bg from "../assets/LogInbg.png";
 import { PasswordCheck, DirectboxNotif } from "iconsax-react";
 import { useNavigate } from "react-router-dom";
